@@ -12,3 +12,6 @@
 .button:hover {
   color: red;
 }
+.unused {
+  color: blue;
+}
