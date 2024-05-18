@@ -13,7 +13,7 @@ module.exports = {
   },
   output: {
     path: distPath,
-    filename: 'js/[name].[chunkhash].js',
+    filename: '[name].js',
   },
 
   module: {
