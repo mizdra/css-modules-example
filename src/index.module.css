@@ -1,3 +1,7 @@
+@value colors: './colors.module.css';
+@value blue, red, green from colors;
+@value localVariable: 10px;
+
 .count {
   color: red;
 }
