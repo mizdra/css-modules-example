@@ -16,7 +16,7 @@
   \******************************/
 /***/ ((__unused_webpack_module, __webpack_exports__, __webpack_require__) => {
 
-eval("__webpack_require__.r(__webpack_exports__);\n/* harmony export */ __webpack_require__.d(__webpack_exports__, {\n/* harmony export */   \"default\": () => (__WEBPACK_DEFAULT_EXPORT__)\n/* harmony export */ });\n// extracted by mini-css-extract-plugin\n/* harmony default export */ const __WEBPACK_DEFAULT_EXPORT__ = ({\"colors\":\"'./colors.module.css'\",\"blue\":\"#0000ff\",\"red\":\"#ff0000\",\"green\":\"#00ff00\",\"localVariable\":\"10px\",\"count\":\"F4ThfLhP9WWn498vO_Qw\",\"button\":\"anZHIb7vGGZPdpdHl08h\"});\n\n//# sourceURL=webpack://css-modules-example/./src/index.module.css?");
+eval("__webpack_require__.r(__webpack_exports__);\n/* harmony export */ __webpack_require__.d(__webpack_exports__, {\n/* harmony export */   \"default\": () => (__WEBPACK_DEFAULT_EXPORT__)\n/* harmony export */ });\n// extracted by mini-css-extract-plugin\n/* harmony default export */ const __WEBPACK_DEFAULT_EXPORT__ = ({\"blue\":\"#0000ff\",\"red\":\"#ff0000\",\"green\":\"#00ff00\",\"localVariable\":\"10px\",\"count\":\"F4ThfLhP9WWn498vO_Qw\",\"button\":\"anZHIb7vGGZPdpdHl08h\",\"box\":\"KJimVdmMSOsqmLlM9Nu8 Xg1TPY_ERUj2fQD8NLbt\"});\n\n//# sourceURL=webpack://css-modules-example/./src/index.module.css?");
 
 /***/ }),
 

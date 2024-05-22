@@ -1,5 +1,5 @@
-@value colors: './colors.module.css';
-@value blue, red, green from colors;
+@value blue, red from './colors.module.css';
+@value green from './colors.module.css';
 @value localVariable: 10px;
 
 .count {
@@ -15,4 +15,8 @@
 }
 .button:hover {
   color: red;
+}
+.box {
+  color: blue;
+  composes: flex from './composition.module.css';
 }
