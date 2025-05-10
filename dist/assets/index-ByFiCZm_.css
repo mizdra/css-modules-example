@@ -1,0 +1,23 @@
+
+._flex_18iey_1 {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+._count_uulvq_5 {
+  color: #ff0000;
+}
+@media (max-width: 12450px) {
+  ._count_uulvq_5 {
+    font-size: 1.5rem;
+  }
+}
+._button_uulvq_13 {
+  border-radius: 50%;
+}
+._button_uulvq_13:hover {
+  color: #ff0000;
+}
+._box_uulvq_19 {
+  color: #0000ff;
+}
